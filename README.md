@@ -1,16 +1,4 @@
 # A toute urgence !
-Projet du Groupe LLJG 
-Pour le Trophée NSI 2027 (Allier)
-
-## Test de synchronisation Git
-
-
-
-Ceci est un test effectué depuis PyCharm.
-
-Modification envoyée sur GitHub avec Git.
-
-# A toute urgence
 
 Projet du Groupe LLJG
 Pour le Trophée NSI 2027 (Allier)
